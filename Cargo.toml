@@ -1,0 +1,18 @@
+[package]
+name = "mochick"
+version = "0.1.0"
+edition = "2024"
+
+keywords = ["Compiler"]
+description = "Compiler for Mochi language!"
+
+authors = ["chwrryroll"]
+repository = ""
+license = "MIT"
+
+
+[dependencies]
+clap = { version = "4.5.37", features = ["derive"] }
+
+[dev-dependencies]
+criterion = "0.7.0"
