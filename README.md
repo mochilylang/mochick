@@ -51,7 +51,7 @@ src/
 │   │   ├── logic.rs
 │   │   ├── semantic.rs
 │   │   └── syntax.rs
-│   └── formatter/ *Printing Errors*
+│   └── formatter/ (Printing Errors)
 └── validator/ [Semantic Analysis]
     ├── resolve/ (Name Resolver)
     └── typing/  (Type Checker)
